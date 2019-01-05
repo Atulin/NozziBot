@@ -1,0 +1,42 @@
+[
+  {
+    "Day": 0,
+    "Time": {
+      "Hour": 11,
+      "Minute": 50
+    },
+    "Description": "EeeeYo"
+  },
+  {
+    "Day": 1,
+    "Time": {
+      "Hour": 16,
+      "Minute": 40
+    },
+    "Description": "Lorem Ipsum"
+  },
+  {
+    "Day": 2,
+    "Time": {
+      "Hour": 4,
+      "Minute": 20
+    },
+    "Description": "Droppin' into Fort NUT"
+  },
+  {
+    "Day": 3,
+    "Time": {
+      "Hour": 11,
+      "Minute": 50
+    },
+    "Description": "AYY LMAOOOOO"
+  },
+  {
+    "Day": 1,
+    "Time": {
+      "Hour": 11,
+      "Minute": 10
+    },
+    "Description": "Dolor Sit Amet 👌"
+  }
+]

@@ -1,0 +1,13 @@
+G:\VS Projects\Nozzibot\Nozzibot\bin\Debug\netcoreapp2.2\events.json
+G:\VS Projects\Nozzibot\Nozzibot\bin\Debug\netcoreapp2.2\Nozzibot.exe
+G:\VS Projects\Nozzibot\Nozzibot\bin\Debug\netcoreapp2.2\Settings.job
+G:\VS Projects\Nozzibot\Nozzibot\bin\Debug\netcoreapp2.2\Nozzibot.deps.json
+G:\VS Projects\Nozzibot\Nozzibot\bin\Debug\netcoreapp2.2\Nozzibot.runtimeconfig.json
+G:\VS Projects\Nozzibot\Nozzibot\bin\Debug\netcoreapp2.2\Nozzibot.runtimeconfig.dev.json
+G:\VS Projects\Nozzibot\Nozzibot\bin\Debug\netcoreapp2.2\Nozzibot.dll
+G:\VS Projects\Nozzibot\Nozzibot\bin\Debug\netcoreapp2.2\Nozzibot.pdb
+G:\VS Projects\Nozzibot\Nozzibot\obj\Debug\netcoreapp2.2\Nozzibot.csproj.CoreCompileInputs.cache
+G:\VS Projects\Nozzibot\Nozzibot\obj\Debug\netcoreapp2.2\Nozzibot.AssemblyInfoInputs.cache
+G:\VS Projects\Nozzibot\Nozzibot\obj\Debug\netcoreapp2.2\Nozzibot.AssemblyInfo.cs
+G:\VS Projects\Nozzibot\Nozzibot\obj\Debug\netcoreapp2.2\Nozzibot.dll
+G:\VS Projects\Nozzibot\Nozzibot\obj\Debug\netcoreapp2.2\Nozzibot.pdb
